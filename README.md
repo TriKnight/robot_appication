@@ -1,6 +1,6 @@
 # Robot application
 This is mini Program for testing robot
-## 1. Robot moving around using move_base topic (move_base_test)
+## 1. Robot moving around using move_base topic (move_base_test pkg)
 
 The robot moving with 4 coordinates: A, B, C, D with position below:
 
